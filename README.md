@@ -59,7 +59,7 @@ ReactDOM.render(
 | displayNextMonthDate | 是否显示下个月的日期 | Boolean | true                                                                                                                                   |
 
 ## Data
-```json
+```js
 {
     "terms":[
         {
