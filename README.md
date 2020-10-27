@@ -1,5 +1,10 @@
 # Campus Calendar 校历
-一款react的校历组件 [查看DEMO](https://danbaixi.github.io/campus-calendar/)
+
+一款react的校历组件 [查看DEMO](https://danbaixi.github.io/campus-calendar/)   
+
+<center>
+<img src="https://yunxiaozhi-1251388077.cos.ap-guangzhou.myqcloud.com/other/preview.png" width="400">
+</center>
 
 ## 安装
 ```bash
@@ -84,3 +89,10 @@ ReactDOM.render(
     ]
 }
 ```
+
+## TODOS
+- [ ] 切换月份和学期
+- [ ] 点击日历高亮事件
+
+## LICENSE
+[MIT](https://github.com/danbaixi/campus-calendar/blob/master/LICENSE)
